@@ -1,0 +1,97 @@
+Region,Building Type,Data Type,value
+Auckland Region,Commercial,Number,850.3333333333334
+Auckland Region,Commercial,Value,1208407730.3333333
+Auckland Region,Education,Number,316.6666666666667
+Auckland Region,Education,Value,461038166.3333333
+Auckland Region,Farm,Number,136.0
+Auckland Region,Farm,Value,22469454.666666668
+Auckland Region,Healthcare,Number,98.66666666666667
+Auckland Region,Healthcare,Value,547272385.0
+Auckland Region,Industrial,Number,507.0
+Auckland Region,Industrial,Value,1043289998.6666666
+Auckland Region,Residential,Number,21448.0
+Auckland Region,Residential,Value,8935959877.666666
+Auckland Region,Sociocultural,Number,118.33333333333333
+Auckland Region,Sociocultural,Value,127871800.33333333
+Auckland Region,Temporary Accommodation,Number,53.0
+Auckland Region,Temporary Accommodation,Value,212784011.66666666
+Canterbury Region,Commercial,Number,328.3333333333333
+Canterbury Region,Commercial,Value,218477775.66666666
+Canterbury Region,Education,Number,131.33333333333334
+Canterbury Region,Education,Value,260899761.66666666
+Canterbury Region,Farm,Number,389.6666666666667
+Canterbury Region,Farm,Value,49413390.333333336
+Canterbury Region,Healthcare,Number,47.0
+Canterbury Region,Healthcare,Value,158633853.33333334
+Canterbury Region,Industrial,Number,301.6666666666667
+Canterbury Region,Industrial,Value,449663959.6666667
+Canterbury Region,Residential,Number,11158.666666666666
+Canterbury Region,Residential,Value,5382199199.0
+Canterbury Region,Sociocultural,Number,74.33333333333333
+Canterbury Region,Sociocultural,Value,301280152.6666667
+Canterbury Region,Temporary Accommodation,Number,35.0
+Canterbury Region,Temporary Accommodation,Value,32127922.333333332
+Rest of North Island,Commercial,Number,583.6666666666666
+Rest of North Island,Commercial,Value,363859551.3333333
+Rest of North Island,Education,Number,357.3333333333333
+Rest of North Island,Education,Value,255484892.66666666
+Rest of North Island,Farm,Number,600.3333333333334
+Rest of North Island,Farm,Value,72403477.66666667
+Rest of North Island,Healthcare,Number,93.33333333333333
+Rest of North Island,Healthcare,Value,219256574.66666666
+Rest of North Island,Industrial,Number,362.0
+Rest of North Island,Industrial,Value,424086297.3333333
+Rest of North Island,Residential,Number,13044.0
+Rest of North Island,Residential,Value,3097134621.6666665
+Rest of North Island,Sociocultural,Number,188.0
+Rest of North Island,Sociocultural,Value,177217571.66666666
+Rest of North Island,Temporary Accommodation,Number,72.66666666666667
+Rest of North Island,Temporary Accommodation,Value,57910045.333333336
+Rest of South Island,Commercial,Number,354.3333333333333
+Rest of South Island,Commercial,Value,234011603.66666666
+Rest of South Island,Education,Number,192.33333333333334
+Rest of South Island,Education,Value,112907773.66666667
+Rest of South Island,Farm,Number,477.6666666666667
+Rest of South Island,Farm,Value,59562179.333333336
+Rest of South Island,Healthcare,Number,49.0
+Rest of South Island,Healthcare,Value,214632233.0
+Rest of South Island,Industrial,Number,281.3333333333333
+Rest of South Island,Industrial,Value,207907467.33333334
+Rest of South Island,Residential,Number,8996.666666666666
+Rest of South Island,Residential,Value,2231448274.333333
+Rest of South Island,Sociocultural,Number,96.66666666666667
+Rest of South Island,Sociocultural,Value,98442940.0
+Rest of South Island,Temporary Accommodation,Number,70.33333333333333
+Rest of South Island,Temporary Accommodation,Value,82633338.33333333
+Waikato Region,Commercial,Number,255.66666666666666
+Waikato Region,Commercial,Value,139490101.0
+Waikato Region,Education,Number,161.33333333333334
+Waikato Region,Education,Value,89057681.33333333
+Waikato Region,Farm,Number,355.0
+Waikato Region,Farm,Value,61165570.0
+Waikato Region,Healthcare,Number,42.0
+Waikato Region,Healthcare,Value,107142893.33333333
+Waikato Region,Industrial,Number,236.0
+Waikato Region,Industrial,Value,351832968.3333333
+Waikato Region,Residential,Number,6548.0
+Waikato Region,Residential,Value,1892258312.6666665
+Waikato Region,Sociocultural,Number,84.66666666666667
+Waikato Region,Sociocultural,Value,61149310.0
+Waikato Region,Temporary Accommodation,Number,30.666666666666668
+Waikato Region,Temporary Accommodation,Value,18358914.333333332
+Wellington Region,Commercial,Number,362.3333333333333
+Wellington Region,Commercial,Value,408737306.0
+Wellington Region,Education,Number,156.33333333333334
+Wellington Region,Education,Value,131718510.66666667
+Wellington Region,Farm,Number,102.66666666666667
+Wellington Region,Farm,Value,10866127.333333334
+Wellington Region,Healthcare,Number,27.0
+Wellington Region,Healthcare,Value,71066799.33333333
+Wellington Region,Industrial,Number,95.33333333333333
+Wellington Region,Industrial,Value,113874411.66666667
+Wellington Region,Residential,Number,5954.333333333333
+Wellington Region,Residential,Value,1418882067.6666665
+Wellington Region,Sociocultural,Number,66.66666666666667
+Wellington Region,Sociocultural,Value,131647767.33333333
+Wellington Region,Temporary Accommodation,Number,17.0
+Wellington Region,Temporary Accommodation,Value,22245966.666666668
