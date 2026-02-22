@@ -1,0 +1,777 @@
+Year,Region,Building Type,gap_lag1
+2001,Auckland Region,Commercial,1.3639905480052033
+2002,Auckland Region,Commercial,1.4213525161804634
+2003,Auckland Region,Commercial,1.4317473539429564
+2004,Auckland Region,Commercial,1.3958541950628822
+2005,Auckland Region,Commercial,1.3427203988908971
+2006,Auckland Region,Commercial,1.3029790013188576
+2007,Auckland Region,Commercial,1.3548545456486059
+2008,Auckland Region,Commercial,1.3947433260076139
+2009,Auckland Region,Commercial,1.3885201467471742
+2010,Auckland Region,Commercial,1.380451110396379
+2011,Auckland Region,Commercial,1.2402235475159307
+2012,Auckland Region,Commercial,1.174797451794701
+2013,Auckland Region,Commercial,1.1692413108620459
+2014,Auckland Region,Commercial,1.1393691972310034
+2015,Auckland Region,Commercial,1.0864169597892754
+2016,Auckland Region,Commercial,1.0503717941889263
+2017,Auckland Region,Commercial,0.964593053172937
+2018,Auckland Region,Commercial,0.8647168117489628
+2019,Auckland Region,Commercial,0.7245822755272044
+2020,Auckland Region,Commercial,0.8386133101450381
+2021,Auckland Region,Commercial,0.8452554165477952
+2022,Auckland Region,Commercial,0.8417345307863648
+2023,Auckland Region,Commercial,0.708456265510991
+2024,Auckland Region,Commercial,0.6782565366720332
+2001,Auckland Region,Education,0.24956452793687145
+2002,Auckland Region,Education,0.21115683973549615
+2003,Auckland Region,Education,0.21740799319978432
+2004,Auckland Region,Education,0.2266924279958964
+2005,Auckland Region,Education,0.16245088129538576
+2006,Auckland Region,Education,0.07373706891392384
+2007,Auckland Region,Education,-0.054192376935012554
+2008,Auckland Region,Education,-0.14951217987826926
+2009,Auckland Region,Education,-0.13478951408877027
+2010,Auckland Region,Education,0.040638486666816576
+2011,Auckland Region,Education,0.09843198438199519
+2012,Auckland Region,Education,0.06428641953568803
+2013,Auckland Region,Education,-0.008444411389950446
+2014,Auckland Region,Education,-0.12140235651354292
+2015,Auckland Region,Education,-0.1730724914670434
+2016,Auckland Region,Education,-0.2058623956108594
+2017,Auckland Region,Education,-0.16589952541035036
+2018,Auckland Region,Education,-0.22599301353015822
+2019,Auckland Region,Education,-0.35058066282609524
+2020,Auckland Region,Education,-0.3489320200389505
+2021,Auckland Region,Education,-0.311472370717258
+2022,Auckland Region,Education,-0.2885865829931067
+2023,Auckland Region,Education,-0.3298274658003084
+2024,Auckland Region,Education,-0.3777500301931749
+2001,Auckland Region,Farm,-0.4123944819665244
+2002,Auckland Region,Farm,-0.3351059756445194
+2003,Auckland Region,Farm,-0.27490230992837095
+2004,Auckland Region,Farm,-0.24247272722335467
+2005,Auckland Region,Farm,-0.2049203295443469
+2006,Auckland Region,Farm,-0.23597542345690137
+2007,Auckland Region,Farm,-0.23384244632258255
+2008,Auckland Region,Farm,-0.3009366940168414
+2009,Auckland Region,Farm,-0.31048346568999197
+2010,Auckland Region,Farm,-0.3066638889471305
+2011,Auckland Region,Farm,-0.4459822346623801
+2012,Auckland Region,Farm,-0.6422204882141891
+2013,Auckland Region,Farm,-0.6645045232875599
+2014,Auckland Region,Farm,-0.6601308685001532
+2015,Auckland Region,Farm,-0.528623208193495
+2016,Auckland Region,Farm,-0.5570467897066909
+2017,Auckland Region,Farm,-0.580149463074247
+2018,Auckland Region,Farm,-0.7088093826374857
+2019,Auckland Region,Farm,-0.8096018754032217
+2020,Auckland Region,Farm,-0.7661770338925153
+2021,Auckland Region,Farm,-0.7277271862468027
+2022,Auckland Region,Farm,-0.7153290895485558
+2023,Auckland Region,Farm,-0.8339077014267673
+2024,Auckland Region,Farm,-1.0202403861017046
+2001,Auckland Region,Healthcare,-1.0657862853076985
+2002,Auckland Region,Healthcare,-1.0729960254679556
+2003,Auckland Region,Healthcare,-1.131213751620936
+2004,Auckland Region,Healthcare,-1.1943509337192557
+2005,Auckland Region,Healthcare,-1.344814277185761
+2006,Auckland Region,Healthcare,-1.377188539014707
+2007,Auckland Region,Healthcare,-1.3876211162993997
+2008,Auckland Region,Healthcare,-1.3223650754904002
+2009,Auckland Region,Healthcare,-1.2488660284544615
+2010,Auckland Region,Healthcare,-1.0840339086711577
+2011,Auckland Region,Healthcare,-1.0553828142308355
+2012,Auckland Region,Healthcare,-1.0532389624389085
+2013,Auckland Region,Healthcare,-1.0699696313957245
+2014,Auckland Region,Healthcare,-1.1904376278379667
+2015,Auckland Region,Healthcare,-1.27070101222502
+2016,Auckland Region,Healthcare,-1.3280776270834798
+2017,Auckland Region,Healthcare,-1.300123885867337
+2018,Auckland Region,Healthcare,-1.4036218425164915
+2019,Auckland Region,Healthcare,-1.4803481192740007
+2020,Auckland Region,Healthcare,-1.5280963110185466
+2021,Auckland Region,Healthcare,-1.570596995118274
+2022,Auckland Region,Healthcare,-1.6990952022335915
+2023,Auckland Region,Healthcare,-1.693040019460974
+2024,Auckland Region,Healthcare,-1.5708245020067793
+2001,Auckland Region,Industrial,0.44199619166112125
+2002,Auckland Region,Industrial,0.43108137130831814
+2003,Auckland Region,Industrial,0.38220950757357564
+2004,Auckland Region,Industrial,0.3220570755144969
+2005,Auckland Region,Industrial,0.32970080439247074
+2006,Auckland Region,Industrial,0.31425317902379746
+2007,Auckland Region,Industrial,0.3233490980013336
+2008,Auckland Region,Industrial,0.26965177258805717
+2009,Auckland Region,Industrial,0.2333286570723052
+2010,Auckland Region,Industrial,0.2410168272080142
+2011,Auckland Region,Industrial,0.1319048006943131
+2012,Auckland Region,Industrial,0.036583816986351714
+2013,Auckland Region,Industrial,0.08373132909112524
+2014,Auckland Region,Industrial,0.03221213027137804
+2015,Auckland Region,Industrial,-0.0032964937367045977
+2016,Auckland Region,Industrial,-0.01361728584788402
+2017,Auckland Region,Industrial,0.034240947345847594
+2018,Auckland Region,Industrial,0.11150539044636698
+2019,Auckland Region,Industrial,0.048044473334292626
+2020,Auckland Region,Industrial,0.11583900202806063
+2021,Auckland Region,Industrial,0.14316997336699
+2022,Auckland Region,Industrial,0.1336431119581425
+2023,Auckland Region,Industrial,0.128047064861601
+2024,Auckland Region,Industrial,0.1172565377464343
+2001,Auckland Region,Residential,3.578604613833674
+2002,Auckland Region,Residential,3.5652375634282016
+2003,Auckland Region,Residential,3.5723987078822113
+2004,Auckland Region,Residential,3.6496602907709867
+2005,Auckland Region,Residential,3.741024447943282
+2006,Auckland Region,Residential,3.659185839301707
+2007,Auckland Region,Residential,3.565342902000374
+2008,Auckland Region,Residential,3.4008480937946572
+2009,Auckland Region,Residential,3.275122273106046
+2010,Auckland Region,Residential,3.2262334785828504
+2011,Auckland Region,Residential,3.098579609373969
+2012,Auckland Region,Residential,3.0599796603216642
+2013,Auckland Region,Residential,3.116517403830711
+2014,Auckland Region,Residential,3.224114384331436
+2015,Auckland Region,Residential,3.37663539714611
+2016,Auckland Region,Residential,3.5218817635278103
+2017,Auckland Region,Residential,3.625091732774603
+2018,Auckland Region,Residential,3.684180232866808
+2019,Auckland Region,Residential,3.627628279011735
+2020,Auckland Region,Residential,3.7097712942518752
+2021,Auckland Region,Residential,3.79277422367897
+2022,Auckland Region,Residential,3.904556341118587
+2023,Auckland Region,Residential,3.9928182213431134
+2024,Auckland Region,Residential,3.9597694080009376
+2001,Auckland Region,Sociocultural,-0.61603081689191
+2002,Auckland Region,Sociocultural,-0.6041090909222957
+2003,Auckland Region,Sociocultural,-0.6050139606053575
+2004,Auckland Region,Sociocultural,-0.7224879918833373
+2005,Auckland Region,Sociocultural,-0.7017512010232272
+2006,Auckland Region,Sociocultural,-0.7659403874335897
+2007,Auckland Region,Sociocultural,-0.6636118243567966
+2008,Auckland Region,Sociocultural,-0.7791990065209884
+2009,Auckland Region,Sociocultural,-0.8051797075260998
+2010,Auckland Region,Sociocultural,-0.7328193903127413
+2011,Auckland Region,Sociocultural,-0.6068919067532059
+2012,Auckland Region,Sociocultural,-0.59735604250936
+2013,Auckland Region,Sociocultural,-0.6532413310088492
+2014,Auckland Region,Sociocultural,-0.7509495425181818
+2015,Auckland Region,Sociocultural,-0.8107030250966059
+2016,Auckland Region,Sociocultural,-0.9010400337211868
+2017,Auckland Region,Sociocultural,-1.125891351946466
+2018,Auckland Region,Sociocultural,-1.2609655421149686
+2019,Auckland Region,Sociocultural,-1.3472123745280316
+2020,Auckland Region,Sociocultural,-1.1292757456290508
+2021,Auckland Region,Sociocultural,-1.068052992184005
+2022,Auckland Region,Sociocultural,-1.1222615493506698
+2023,Auckland Region,Sociocultural,-1.3198357735710307
+2024,Auckland Region,Sociocultural,-1.3920055757640268
+2001,Auckland Region,Temporary Accommodation,-1.6121275420344245
+2002,Auckland Region,Temporary Accommodation,-1.6287131729877213
+2003,Auckland Region,Temporary Accommodation,-1.7218212928646963
+2004,Auckland Region,Temporary Accommodation,-1.7337019815217802
+2005,Auckland Region,Temporary Accommodation,-1.785370705105195
+2006,Auckland Region,Temporary Accommodation,-1.8693953005774873
+2007,Auckland Region,Temporary Accommodation,-1.9084468233999745
+2008,Auckland Region,Temporary Accommodation,-1.9853316389003544
+2009,Auckland Region,Temporary Accommodation,-1.9603623476826035
+2010,Auckland Region,Temporary Accommodation,-1.7821438785732324
+2011,Auckland Region,Temporary Accommodation,-1.6036721025389813
+2012,Auckland Region,Temporary Accommodation,-1.60217215620436
+2013,Auckland Region,Temporary Accommodation,-1.648575270223457
+2014,Auckland Region,Temporary Accommodation,-1.7651947924497522
+2015,Auckland Region,Temporary Accommodation,-1.9093153137647159
+2016,Auckland Region,Temporary Accommodation,-1.8900325973720742
+2017,Auckland Region,Temporary Accommodation,-1.8552181890839137
+2018,Auckland Region,Temporary Accommodation,-1.75081804250068
+2019,Auckland Region,Temporary Accommodation,-1.7512933993702573
+2020,Auckland Region,Temporary Accommodation,-1.58954909023221
+2021,Auckland Region,Temporary Accommodation,-1.432779269313066
+2022,Auckland Region,Temporary Accommodation,-1.5005658352127833
+2023,Auckland Region,Temporary Accommodation,-1.697016167840613
+2024,Auckland Region,Temporary Accommodation,-2.006460487748307
+2001,Canterbury Region,Commercial,0.7285405233167914
+2002,Canterbury Region,Commercial,0.6683363977325278
+2003,Canterbury Region,Commercial,0.6824885403416259
+2004,Canterbury Region,Commercial,0.7065507062525915
+2005,Canterbury Region,Commercial,0.7307132381663601
+2006,Canterbury Region,Commercial,0.7023985225370062
+2007,Canterbury Region,Commercial,0.6811400484191497
+2008,Canterbury Region,Commercial,0.6827107020817573
+2009,Canterbury Region,Commercial,0.6431327879186357
+2010,Canterbury Region,Commercial,0.6886373744177865
+2011,Canterbury Region,Commercial,0.5647203457254628
+2012,Canterbury Region,Commercial,0.5779587785652724
+2013,Canterbury Region,Commercial,0.7412544897056845
+2014,Canterbury Region,Commercial,0.8043827056544632
+2015,Canterbury Region,Commercial,0.816949013667025
+2016,Canterbury Region,Commercial,0.68584163409031
+2017,Canterbury Region,Commercial,0.6959572888393133
+2018,Canterbury Region,Commercial,0.6715849087581747
+2019,Canterbury Region,Commercial,0.5524751309040568
+2020,Canterbury Region,Commercial,0.4307909345323422
+2021,Canterbury Region,Commercial,0.2959944186163588
+2022,Canterbury Region,Commercial,0.1814968812625919
+2023,Canterbury Region,Commercial,0.11413092985566653
+2024,Canterbury Region,Commercial,0.1224755850538024
+2001,Canterbury Region,Education,-0.26081393051829416
+2002,Canterbury Region,Education,-0.25734691947810173
+2003,Canterbury Region,Education,-0.2615482416097912
+2004,Canterbury Region,Education,-0.24089153072639746
+2005,Canterbury Region,Education,-0.33348944044487805
+2006,Canterbury Region,Education,-0.36576039296913176
+2007,Canterbury Region,Education,-0.410949833491407
+2008,Canterbury Region,Education,-0.3877802256009488
+2009,Canterbury Region,Education,-0.3221032070007954
+2010,Canterbury Region,Education,-0.06815507130251497
+2011,Canterbury Region,Education,-0.04583103305044389
+2012,Canterbury Region,Education,-0.18982059002084117
+2013,Canterbury Region,Education,-0.3652009764234512
+2014,Canterbury Region,Education,-0.49530785948816547
+2015,Canterbury Region,Education,-0.4955845975248545
+2016,Canterbury Region,Education,-0.503154716046069
+2017,Canterbury Region,Education,-0.4222701028467295
+2018,Canterbury Region,Education,-0.407504713421071
+2019,Canterbury Region,Education,-0.5522409407020703
+2020,Canterbury Region,Education,-0.7074074308298322
+2021,Canterbury Region,Education,-0.7348378549900092
+2022,Canterbury Region,Education,-0.7745927655733791
+2023,Canterbury Region,Education,-0.801122995290048
+2024,Canterbury Region,Education,-0.8213995135063064
+2001,Canterbury Region,Farm,0.7910608802981258
+2002,Canterbury Region,Farm,0.9917127444907834
+2003,Canterbury Region,Farm,1.1463011230719289
+2004,Canterbury Region,Farm,1.2198039365515259
+2005,Canterbury Region,Farm,1.1880737556089533
+2006,Canterbury Region,Farm,1.2094832020290784
+2007,Canterbury Region,Farm,1.2415203948593012
+2008,Canterbury Region,Farm,1.2935348983641894
+2009,Canterbury Region,Farm,1.3356594285889818
+2010,Canterbury Region,Farm,1.3881316616374102
+2011,Canterbury Region,Farm,1.287264992074098
+2012,Canterbury Region,Farm,1.1607705185812796
+2013,Canterbury Region,Farm,1.2410823592621343
+2014,Canterbury Region,Farm,1.3112886771703574
+2015,Canterbury Region,Farm,1.384001065874143
+2016,Canterbury Region,Farm,1.303138267798154
+2017,Canterbury Region,Farm,1.1660446386259329
+2018,Canterbury Region,Farm,1.055750688834948
+2019,Canterbury Region,Farm,0.9077968946633694
+2020,Canterbury Region,Farm,0.9124275506880233
+2021,Canterbury Region,Farm,0.7713947150342486
+2022,Canterbury Region,Farm,0.6522227929521511
+2023,Canterbury Region,Farm,0.510565063073293
+2024,Canterbury Region,Farm,0.42569343412858274
+2001,Canterbury Region,Healthcare,-1.332397546798485
+2002,Canterbury Region,Healthcare,-1.4517261132382204
+2003,Canterbury Region,Healthcare,-1.4716560345032432
+2004,Canterbury Region,Healthcare,-1.544162556034614
+2005,Canterbury Region,Healthcare,-1.5445797125396776
+2006,Canterbury Region,Healthcare,-1.7203060557744427
+2007,Canterbury Region,Healthcare,-1.7025789680702195
+2008,Canterbury Region,Healthcare,-1.6518722913022859
+2009,Canterbury Region,Healthcare,-1.5217423100696132
+2010,Canterbury Region,Healthcare,-1.3774883912862776
+2011,Canterbury Region,Healthcare,-1.4475426581976611
+2012,Canterbury Region,Healthcare,-1.4207997201162978
+2013,Canterbury Region,Healthcare,-1.3807466663929473
+2014,Canterbury Region,Healthcare,-1.3806910538992438
+2015,Canterbury Region,Healthcare,-1.4592556526469167
+2016,Canterbury Region,Healthcare,-1.5363842454513268
+2017,Canterbury Region,Healthcare,-1.5005977203433334
+2018,Canterbury Region,Healthcare,-1.3910041949886764
+2019,Canterbury Region,Healthcare,-1.5208996580935414
+2020,Canterbury Region,Healthcare,-1.6320464520954587
+2021,Canterbury Region,Healthcare,-1.7791274619189612
+2022,Canterbury Region,Healthcare,-1.6821498174787797
+2023,Canterbury Region,Healthcare,-1.6389665523381236
+2024,Canterbury Region,Healthcare,-1.702689913240424
+2001,Canterbury Region,Industrial,0.35152921762635536
+2002,Canterbury Region,Industrial,0.3906564090654321
+2003,Canterbury Region,Industrial,0.41541361452913694
+2004,Canterbury Region,Industrial,0.4582080483608424
+2005,Canterbury Region,Industrial,0.5126386923554476
+2006,Canterbury Region,Industrial,0.5078673752320952
+2007,Canterbury Region,Industrial,0.49893746134754124
+2008,Canterbury Region,Industrial,0.4329229916546513
+2009,Canterbury Region,Industrial,0.38960037531897296
+2010,Canterbury Region,Industrial,0.41162206977020066
+2011,Canterbury Region,Industrial,0.28406288821064685
+2012,Canterbury Region,Industrial,0.2248462068291479
+2013,Canterbury Region,Industrial,0.29187014766268504
+2014,Canterbury Region,Industrial,0.36850880091001503
+2015,Canterbury Region,Industrial,0.4469941261805461
+2016,Canterbury Region,Industrial,0.4022663435911822
+2017,Canterbury Region,Industrial,0.3391866556990344
+2018,Canterbury Region,Industrial,0.2856424671388744
+2019,Canterbury Region,Industrial,0.13681625460634983
+2020,Canterbury Region,Industrial,0.10747379803317614
+2021,Canterbury Region,Industrial,0.017219171315999482
+2022,Canterbury Region,Industrial,-0.05303107301081411
+2023,Canterbury Region,Industrial,-0.04278983484540699
+2024,Canterbury Region,Industrial,-0.016055082796829545
+2001,Canterbury Region,Residential,3.0950272623605395
+2002,Canterbury Region,Residential,3.061890646597085
+2003,Canterbury Region,Residential,3.0504669347910127
+2004,Canterbury Region,Residential,3.1762477526057484
+2005,Canterbury Region,Residential,3.3110070628951966
+2006,Canterbury Region,Residential,3.3880686819798402
+2007,Canterbury Region,Residential,3.4033274043816473
+2008,Canterbury Region,Residential,3.4074557817561377
+2009,Canterbury Region,Residential,3.340873619361984
+2010,Canterbury Region,Residential,3.3534983189270227
+2011,Canterbury Region,Residential,3.217972948121295
+2012,Canterbury Region,Residential,3.140284304312467
+2013,Canterbury Region,Residential,3.282846230493
+2014,Canterbury Region,Residential,3.47815188843788
+2015,Canterbury Region,Residential,3.758698442031859
+2016,Canterbury Region,Residential,3.825026769794725
+2017,Canterbury Region,Residential,3.7897664162029656
+2018,Canterbury Region,Residential,3.7026803890201627
+2019,Canterbury Region,Residential,3.4928133323089163
+2020,Canterbury Region,Residential,3.4562149978937367
+2021,Canterbury Region,Residential,3.4236279689989804
+2022,Canterbury Region,Residential,3.530690849308776
+2023,Canterbury Region,Residential,3.661743159848532
+2024,Canterbury Region,Residential,3.6962506509229653
+2001,Canterbury Region,Sociocultural,-0.7595365321130414
+2002,Canterbury Region,Sociocultural,-0.8074947328802864
+2003,Canterbury Region,Sociocultural,-0.825761738793843
+2004,Canterbury Region,Sociocultural,-0.7820225039877178
+2005,Canterbury Region,Sociocultural,-0.762134394332036
+2006,Canterbury Region,Sociocultural,-0.8636535902200189
+2007,Canterbury Region,Sociocultural,-0.9348630920127654
+2008,Canterbury Region,Sociocultural,-1.0385122273601723
+2009,Canterbury Region,Sociocultural,-0.9800467523677616
+2010,Canterbury Region,Sociocultural,-0.8292752354486668
+2011,Canterbury Region,Sociocultural,-0.8429488749791609
+2012,Canterbury Region,Sociocultural,-0.9487033101974314
+2013,Canterbury Region,Sociocultural,-0.7965897695414066
+2014,Canterbury Region,Sociocultural,-0.7263298983744546
+2015,Canterbury Region,Sociocultural,-0.5902178056233067
+2016,Canterbury Region,Sociocultural,-0.7439073562758667
+2017,Canterbury Region,Sociocultural,-0.7461174517665796
+2018,Canterbury Region,Sociocultural,-0.8139703218628194
+2019,Canterbury Region,Sociocultural,-0.9060046744333441
+2020,Canterbury Region,Sociocultural,-0.9848491617273689
+2021,Canterbury Region,Sociocultural,-1.035549427732124
+2022,Canterbury Region,Sociocultural,-1.1504260760751723
+2023,Canterbury Region,Sociocultural,-1.2196260977363425
+2024,Canterbury Region,Sociocultural,-1.3078972650230316
+2001,Canterbury Region,Temporary Accommodation,-0.995925310177272
+2002,Canterbury Region,Temporary Accommodation,-1.021445836010332
+2003,Canterbury Region,Temporary Accommodation,-1.1027485221288762
+2004,Canterbury Region,Temporary Accommodation,-1.0410589783625337
+2005,Canterbury Region,Temporary Accommodation,-0.9960137607908406
+2006,Canterbury Region,Temporary Accommodation,-0.9420682012436563
+2007,Canterbury Region,Temporary Accommodation,-0.9259211546371047
+2008,Canterbury Region,Temporary Accommodation,-0.8623001036207691
+2009,Canterbury Region,Temporary Accommodation,-0.96754658960353
+2010,Canterbury Region,Temporary Accommodation,-1.0024643086793485
+2011,Canterbury Region,Temporary Accommodation,-1.2624002250620654
+2012,Canterbury Region,Temporary Accommodation,-1.3199184952625176
+2013,Canterbury Region,Temporary Accommodation,-1.2020548776495712
+2014,Canterbury Region,Temporary Accommodation,-1.2296507964863777
+2015,Canterbury Region,Temporary Accommodation,-1.2759483885282021
+2016,Canterbury Region,Temporary Accommodation,-1.4930338045777125
+2017,Canterbury Region,Temporary Accommodation,-1.5066400347992959
+2018,Canterbury Region,Temporary Accommodation,-1.4746183350298097
+2019,Canterbury Region,Temporary Accommodation,-1.4943729037601132
+2020,Canterbury Region,Temporary Accommodation,-1.4368342854704261
+2021,Canterbury Region,Temporary Accommodation,-1.5355053792612106
+2022,Canterbury Region,Temporary Accommodation,-1.6395902030599832
+2023,Canterbury Region,Temporary Accommodation,-1.8894259142992964
+2024,Canterbury Region,Temporary Accommodation,-2.0494055172763983
+2010,Rest of South Island,Commercial,0.016361915354857537
+2010,Rest of South Island,Education,-0.734140432611829
+2010,Rest of South Island,Farm,0.5486937443418123
+2010,Rest of South Island,Healthcare,-2.197726468033366
+2010,Rest of South Island,Industrial,-0.34574261713830623
+2010,Rest of South Island,Residential,2.5748156484888645
+2010,Rest of South Island,Sociocultural,-1.273305610075961
+2010,Rest of South Island,Temporary Accommodation,-1.229734361782321
+2001,Waikato Region,Commercial,0.47646125774674264
+2002,Waikato Region,Commercial,0.4817789714939291
+2003,Waikato Region,Commercial,0.49707230846456874
+2004,Waikato Region,Commercial,0.4837472465249322
+2005,Waikato Region,Commercial,0.5414091564817225
+2006,Waikato Region,Commercial,0.583850422158112
+2007,Waikato Region,Commercial,0.6690339032546309
+2008,Waikato Region,Commercial,0.6985334285756295
+2009,Waikato Region,Commercial,0.6855465765519071
+2010,Waikato Region,Commercial,0.6544720994723239
+2011,Waikato Region,Commercial,0.5943909438546866
+2012,Waikato Region,Commercial,0.5240547450476098
+2013,Waikato Region,Commercial,0.5455510694317258
+2014,Waikato Region,Commercial,0.4514283486348454
+2015,Waikato Region,Commercial,0.4334574403346467
+2016,Waikato Region,Commercial,0.3451402295213226
+2017,Waikato Region,Commercial,0.27642453908234366
+2018,Waikato Region,Commercial,0.2036432457602384
+2019,Waikato Region,Commercial,0.13861144168698125
+2020,Waikato Region,Commercial,0.1740900227473059
+2021,Waikato Region,Commercial,0.17793962609144742
+2022,Waikato Region,Commercial,0.16138404432060494
+2023,Waikato Region,Commercial,0.11518957846963662
+2024,Waikato Region,Commercial,0.08170990938770384
+2001,Waikato Region,Education,0.13171962964302253
+2002,Waikato Region,Education,0.06174009494044608
+2003,Waikato Region,Education,-0.0056425170968745775
+2004,Waikato Region,Education,-0.07000342195809228
+2005,Waikato Region,Education,-0.13360587575480665
+2006,Waikato Region,Education,-0.1092967584018334
+2007,Waikato Region,Education,-0.13088125273102058
+2008,Waikato Region,Education,-0.11533010007093836
+2009,Waikato Region,Education,-0.1664241895346894
+2010,Waikato Region,Education,0.09587870197459303
+2011,Waikato Region,Education,0.11870597024060192
+2012,Waikato Region,Education,0.0872273661076397
+2013,Waikato Region,Education,-0.15395110301059667
+2014,Waikato Region,Education,-0.24567140624092332
+2015,Waikato Region,Education,-0.2446669238956023
+2016,Waikato Region,Education,-0.1802841936658206
+2017,Waikato Region,Education,-0.2771610798264881
+2018,Waikato Region,Education,-0.37240447289336753
+2019,Waikato Region,Education,-0.6668487738456728
+2020,Waikato Region,Education,-0.6396280402704564
+2021,Waikato Region,Education,-0.5352304703436053
+2022,Waikato Region,Education,-0.34944157944538556
+2023,Waikato Region,Education,-0.3461152772222231
+2024,Waikato Region,Education,-0.40745421759710787
+2001,Waikato Region,Farm,0.7484750020407986
+2002,Waikato Region,Farm,0.9517826007396648
+2003,Waikato Region,Farm,1.123600737749328
+2004,Waikato Region,Farm,1.1756331277795509
+2005,Waikato Region,Farm,1.1555406806618844
+2006,Waikato Region,Farm,1.1489039613936631
+2007,Waikato Region,Farm,1.26087547078071
+2008,Waikato Region,Farm,1.3498099372173327
+2009,Waikato Region,Farm,1.4502009475655164
+2010,Waikato Region,Farm,1.4746339859213178
+2011,Waikato Region,Farm,1.2836679841293224
+2012,Waikato Region,Farm,0.9923287687886564
+2013,Waikato Region,Farm,0.9757455771518044
+2014,Waikato Region,Farm,1.0440248173001274
+2015,Waikato Region,Farm,1.1729411502904377
+2016,Waikato Region,Farm,1.1390176573549322
+2017,Waikato Region,Farm,1.0868425913950315
+2018,Waikato Region,Farm,1.0339284682903438
+2019,Waikato Region,Farm,0.9518484640012241
+2020,Waikato Region,Farm,1.003895661472896
+2021,Waikato Region,Farm,0.9252119905357983
+2022,Waikato Region,Farm,0.8733474966800268
+2023,Waikato Region,Farm,0.7574783417960909
+2024,Waikato Region,Farm,0.580049142502312
+2001,Waikato Region,Healthcare,-1.670773395228141
+2002,Waikato Region,Healthcare,-1.7589307177820288
+2003,Waikato Region,Healthcare,-1.7699277307726815
+2004,Waikato Region,Healthcare,-1.8705735208683025
+2005,Waikato Region,Healthcare,-1.9411137019510014
+2006,Waikato Region,Healthcare,-1.9689591807528144
+2007,Waikato Region,Healthcare,-1.7309733027468837
+2008,Waikato Region,Healthcare,-1.557594303462282
+2009,Waikato Region,Healthcare,-1.3869262958118362
+2010,Waikato Region,Healthcare,-1.2889860663357027
+2011,Waikato Region,Healthcare,-1.3127938276473357
+2012,Waikato Region,Healthcare,-1.4218554040077036
+2013,Waikato Region,Healthcare,-1.4250969421064985
+2014,Waikato Region,Healthcare,-1.5874279129299125
+2015,Waikato Region,Healthcare,-1.56741729404443
+2016,Waikato Region,Healthcare,-1.6917416977397175
+2017,Waikato Region,Healthcare,-1.677582820205589
+2018,Waikato Region,Healthcare,-1.7875576624752383
+2019,Waikato Region,Healthcare,-1.8377817240934085
+2020,Waikato Region,Healthcare,-1.8220590008216373
+2021,Waikato Region,Healthcare,-1.8292837077765896
+2022,Waikato Region,Healthcare,-1.7912525874956589
+2023,Waikato Region,Healthcare,-1.8307205705856768
+2024,Waikato Region,Healthcare,-1.754833162467325
+2001,Waikato Region,Industrial,0.14233919847048337
+2002,Waikato Region,Industrial,0.19947249552075075
+2003,Waikato Region,Industrial,0.21247449473140012
+2004,Waikato Region,Industrial,0.18536386102331726
+2005,Waikato Region,Industrial,0.30867320547607324
+2006,Waikato Region,Industrial,0.39355825296390456
+2007,Waikato Region,Industrial,0.43564110159107994
+2008,Waikato Region,Industrial,0.3779236878254171
+2009,Waikato Region,Industrial,0.2963814651887198
+2010,Waikato Region,Industrial,0.25918416041785264
+2011,Waikato Region,Industrial,0.16195595403441843
+2012,Waikato Region,Industrial,0.06996075008670832
+2013,Waikato Region,Industrial,0.04969578512459982
+2014,Waikato Region,Industrial,-0.06997239020746182
+2015,Waikato Region,Industrial,-0.032317001256161326
+2016,Waikato Region,Industrial,0.0054017951134888165
+2017,Waikato Region,Industrial,0.12897180793921326
+2018,Waikato Region,Industrial,0.18752386388035536
+2019,Waikato Region,Industrial,0.1116934911264007
+2020,Waikato Region,Industrial,0.04087674687431253
+2021,Waikato Region,Industrial,-0.06382333209555036
+2022,Waikato Region,Industrial,-0.10748175633169943
+2023,Waikato Region,Industrial,-0.02392322399308089
+2024,Waikato Region,Industrial,-0.012627507693999007
+2001,Waikato Region,Residential,3.1411769735974353
+2002,Waikato Region,Residential,3.1368173437698683
+2003,Waikato Region,Residential,3.121460041196027
+2004,Waikato Region,Residential,3.2037149468088
+2005,Waikato Region,Residential,3.309662719828035
+2006,Waikato Region,Residential,3.3754837386131484
+2007,Waikato Region,Residential,3.403912725480957
+2008,Waikato Region,Residential,3.416049370153953
+2009,Waikato Region,Residential,3.3540851130876694
+2010,Waikato Region,Residential,3.3322824153848165
+2011,Waikato Region,Residential,3.1537120792087707
+2012,Waikato Region,Residential,3.0273021547506485
+2013,Waikato Region,Residential,2.9882521636964245
+2014,Waikato Region,Residential,2.981094005902441
+2015,Waikato Region,Residential,3.0550648579273894
+2016,Waikato Region,Residential,3.147446036114462
+2017,Waikato Region,Residential,3.2453608951802213
+2018,Waikato Region,Residential,3.3290865856458858
+2019,Waikato Region,Residential,3.267052020954482
+2020,Waikato Region,Residential,3.304487511384977
+2021,Waikato Region,Residential,3.3204956138998707
+2022,Waikato Region,Residential,3.396309158525889
+2023,Waikato Region,Residential,3.437350567414839
+2024,Waikato Region,Residential,3.399913490820211
+2001,Waikato Region,Sociocultural,-0.7275115465791933
+2002,Waikato Region,Sociocultural,-0.679161516915399
+2003,Waikato Region,Sociocultural,-0.6877092518802481
+2004,Waikato Region,Sociocultural,-0.7063171277548719
+2005,Waikato Region,Sociocultural,-0.7899390831920359
+2006,Waikato Region,Sociocultural,-0.8070346126703782
+2007,Waikato Region,Sociocultural,-0.8287343243283791
+2008,Waikato Region,Sociocultural,-0.803822501085901
+2009,Waikato Region,Sociocultural,-0.7687421537253458
+2010,Waikato Region,Sociocultural,-0.5958388857757573
+2011,Waikato Region,Sociocultural,-0.6283549749791746
+2012,Waikato Region,Sociocultural,-0.7515477154175807
+2013,Waikato Region,Sociocultural,-0.7750741881803078
+2014,Waikato Region,Sociocultural,-0.8867335267345844
+2015,Waikato Region,Sociocultural,-0.9200796495157793
+2016,Waikato Region,Sociocultural,-1.1132574254999117
+2017,Waikato Region,Sociocultural,-1.056045172023767
+2018,Waikato Region,Sociocultural,-1.164369070522203
+2019,Waikato Region,Sociocultural,-1.2003234493940518
+2020,Waikato Region,Sociocultural,-1.2508016378707287
+2021,Waikato Region,Sociocultural,-1.132046541965119
+2022,Waikato Region,Sociocultural,-1.1423782306137014
+2023,Waikato Region,Sociocultural,-1.1211795802500548
+2024,Waikato Region,Sociocultural,-1.1493915623264854
+2001,Waikato Region,Temporary Accommodation,-1.083786410496586
+2002,Waikato Region,Temporary Accommodation,-1.061791515952546
+2003,Waikato Region,Temporary Accommodation,-1.170466034290059
+2004,Waikato Region,Temporary Accommodation,-1.250853808863174
+2005,Waikato Region,Temporary Accommodation,-1.0979058268153228
+2006,Waikato Region,Temporary Accommodation,-1.017982890890769
+2007,Waikato Region,Temporary Accommodation,-0.8836754423596798
+2008,Waikato Region,Temporary Accommodation,-0.9830528653101833
+2009,Waikato Region,Temporary Accommodation,-1.0115386429409492
+2010,Waikato Region,Temporary Accommodation,-1.0692769774701274
+2011,Waikato Region,Temporary Accommodation,-1.2457295970667897
+2012,Waikato Region,Temporary Accommodation,-1.3294820838766883
+2013,Waikato Region,Temporary Accommodation,-1.380645179535665
+2014,Waikato Region,Temporary Accommodation,-1.420373828266746
+2015,Waikato Region,Temporary Accommodation,-1.488523351574767
+2016,Waikato Region,Temporary Accommodation,-1.6272031766021464
+2017,Waikato Region,Temporary Accommodation,-1.798419293348863
+2018,Waikato Region,Temporary Accommodation,-1.7785889924924776
+2019,Waikato Region,Temporary Accommodation,-1.880341338512204
+2020,Waikato Region,Temporary Accommodation,-1.3428763168169056
+2021,Waikato Region,Temporary Accommodation,-1.3551900932793286
+2022,Waikato Region,Temporary Accommodation,-1.1801185585965488
+2023,Waikato Region,Temporary Accommodation,-1.6092312793674934
+2024,Waikato Region,Temporary Accommodation,-1.653296743247902
+2001,Wellington Region,Commercial,1.165733482969257
+2002,Wellington Region,Commercial,1.1962690844009574
+2003,Wellington Region,Commercial,1.1667992517342345
+2004,Wellington Region,Commercial,1.1512981207486064
+2005,Wellington Region,Commercial,1.1405953943997549
+2006,Wellington Region,Commercial,1.2163002957964322
+2007,Wellington Region,Commercial,1.2035159383283451
+2008,Wellington Region,Commercial,1.189000937038041
+2009,Wellington Region,Commercial,1.0973096878495303
+2010,Wellington Region,Commercial,1.0895499329524236
+2011,Wellington Region,Commercial,0.9588893701200956
+2012,Wellington Region,Commercial,0.8409071614063031
+2013,Wellington Region,Commercial,0.9068529157431167
+2014,Wellington Region,Commercial,0.8943732820066197
+2015,Wellington Region,Commercial,0.8497044500736415
+2016,Wellington Region,Commercial,0.7582720570359633
+2017,Wellington Region,Commercial,0.6990898541238755
+2018,Wellington Region,Commercial,0.6644621569543432
+2019,Wellington Region,Commercial,0.5234424113347877
+2020,Wellington Region,Commercial,0.5348701999339784
+2021,Wellington Region,Commercial,0.501895313517184
+2022,Wellington Region,Commercial,0.4629084494444422
+2023,Wellington Region,Commercial,0.4332724320092538
+2024,Wellington Region,Commercial,0.4294563452795659
+2001,Wellington Region,Education,-0.2644868586084801
+2002,Wellington Region,Education,-0.3016274533002363
+2003,Wellington Region,Education,-0.29008245370576535
+2004,Wellington Region,Education,-0.2909247930305092
+2005,Wellington Region,Education,-0.36580733901251694
+2006,Wellington Region,Education,-0.4229905797873501
+2007,Wellington Region,Education,-0.46582503233730677
+2008,Wellington Region,Education,-0.48807543836508493
+2009,Wellington Region,Education,-0.39414714951769714
+2010,Wellington Region,Education,-0.09561143321948062
+2011,Wellington Region,Education,-0.0652829686337526
+2012,Wellington Region,Education,-0.14144532114594455
+2013,Wellington Region,Education,-0.2944633017542557
+2014,Wellington Region,Education,-0.385814573118723
+2015,Wellington Region,Education,-0.3953065416174093
+2016,Wellington Region,Education,-0.43841431241993956
+2017,Wellington Region,Education,-0.4803116894715549
+2018,Wellington Region,Education,-0.5711018399140899
+2019,Wellington Region,Education,-0.7606164366704116
+2020,Wellington Region,Education,-0.7623620272612053
+2021,Wellington Region,Education,-0.6233852222330869
+2022,Wellington Region,Education,-0.5215174321504108
+2023,Wellington Region,Education,-0.39340614117521433
+2024,Wellington Region,Education,-0.4582238525533233
+2001,Wellington Region,Farm,-0.7997892288010249
+2002,Wellington Region,Farm,-0.6238898593487958
+2003,Wellington Region,Farm,-0.4939102157206836
+2004,Wellington Region,Farm,-0.4211745974520227
+2005,Wellington Region,Farm,-0.41860552457948774
+2006,Wellington Region,Farm,-0.3679668782911172
+2007,Wellington Region,Farm,-0.3426536739332331
+2008,Wellington Region,Farm,-0.2238852957241333
+2009,Wellington Region,Farm,-0.19221712133536606
+2010,Wellington Region,Farm,-0.11918154792659141
+2011,Wellington Region,Farm,-0.21325000192559873
+2012,Wellington Region,Farm,-0.35203731187815457
+2013,Wellington Region,Farm,-0.3361359981548242
+2014,Wellington Region,Farm,-0.385814573118723
+2015,Wellington Region,Farm,-0.3362730100332163
+2016,Wellington Region,Farm,-0.3881754379063098
+2017,Wellington Region,Farm,-0.4122901633742355
+2018,Wellington Region,Farm,-0.36778213628036127
+2019,Wellington Region,Farm,-0.40225277856734554
+2020,Wellington Region,Farm,-0.3616028101904538
+2021,Wellington Region,Farm,-0.40171696009720037
+2022,Wellington Region,Farm,-0.4488358807156061
+2023,Wellington Region,Farm,-0.5292076823342757
+2024,Wellington Region,Farm,-0.6456868088476968
+2001,Wellington Region,Healthcare,-1.4958906212584022
+2002,Wellington Region,Healthcare,-1.5340267256485727
+2003,Wellington Region,Healthcare,-1.5817115882845778
+2004,Wellington Region,Healthcare,-1.552576708943123
+2005,Wellington Region,Healthcare,-1.4817111247906878
+2006,Wellington Region,Healthcare,-1.3752749143094105
+2007,Wellington Region,Healthcare,-1.4658651216147112
+2008,Wellington Region,Healthcare,-1.5506286772174915
+2009,Wellington Region,Healthcare,-1.6147592728475981
+2010,Wellington Region,Healthcare,-1.4507812508354414
+2011,Wellington Region,Healthcare,-1.3384798315936646
+2012,Wellington Region,Healthcare,-1.4126703524810482
+2013,Wellington Region,Healthcare,-1.5052620711505917
+2014,Wellington Region,Healthcare,-1.6600594304299907
+2015,Wellington Region,Healthcare,-1.6469440175910424
+2016,Wellington Region,Healthcare,-1.5679446404913593
+2017,Wellington Region,Healthcare,-1.596060260382652
+2018,Wellington Region,Healthcare,-1.6129978991403466
+2019,Wellington Region,Healthcare,-1.9142353548507325
+2020,Wellington Region,Healthcare,-1.961650982274715
+2021,Wellington Region,Healthcare,-2.132388737345417
+2022,Wellington Region,Healthcare,-2.1221252651362392
+2023,Wellington Region,Healthcare,-2.150074290591999
+2024,Wellington Region,Healthcare,-2.1407840298163863
+2001,Wellington Region,Industrial,-0.40718921648974593
+2002,Wellington Region,Industrial,-0.39926592286415197
+2003,Wellington Region,Industrial,-0.37516146294434094
+2004,Wellington Region,Industrial,-0.33064120424301446
+2005,Wellington Region,Industrial,-0.3432075070952765
+2006,Wellington Region,Industrial,-0.308580228609606
+2007,Wellington Region,Industrial,-0.2810399867029094
+2008,Wellington Region,Industrial,-0.23054089433586977
+2009,Wellington Region,Industrial,-0.2419786308944305
+2010,Wellington Region,Industrial,-0.21944434651274936
+2011,Wellington Region,Industrial,-0.289235908903521
+2012,Wellington Region,Industrial,-0.3715819079511249
+2013,Wellington Region,Industrial,-0.40436927978375703
+2014,Wellington Region,Industrial,-0.4969086206243096
+2015,Wellington Region,Industrial,-0.5939772364128935
+2016,Wellington Region,Industrial,-0.33821934006300847
+2017,Wellington Region,Industrial,-0.2023857919651384
+2018,Wellington Region,Industrial,-0.10641737214595448
+2019,Wellington Region,Industrial,-0.27836418534847684
+2020,Wellington Region,Industrial,-0.3559583925707761
+2021,Wellington Region,Industrial,-0.46258767518422594
+2022,Wellington Region,Industrial,-0.6465327663686518
+2023,Wellington Region,Industrial,-0.7782519620806427
+2024,Wellington Region,Industrial,-0.8383711526771975
+2001,Wellington Region,Residential,3.1729486251555823
+2002,Wellington Region,Residential,3.1847459907066984
+2003,Wellington Region,Residential,3.1860162361295075
+2004,Wellington Region,Residential,3.204616895856052
+2005,Wellington Region,Residential,3.212778818337937
+2006,Wellington Region,Residential,3.180363995257059
+2007,Wellington Region,Residential,3.137752135064659
+2008,Wellington Region,Residential,3.1266877365328805
+2009,Wellington Region,Residential,3.1263722369954294
+2010,Wellington Region,Residential,3.1658073669939792
+2011,Wellington Region,Residential,3.0582503134468997
+2012,Wellington Region,Residential,2.937968168028478
+2013,Wellington Region,Residential,2.9273469888649437
+2014,Wellington Region,Residential,2.9658541166960006
+2015,Wellington Region,Residential,3.008140559778762
+2016,Wellington Region,Residential,3.038311911708953
+2017,Wellington Region,Residential,3.0481169407132445
+2018,Wellington Region,Residential,3.1111242297091106
+2019,Wellington Region,Residential,3.0876114332124445
+2020,Wellington Region,Residential,3.1736525549826524
+2021,Wellington Region,Residential,3.2311960512940017
+2022,Wellington Region,Residential,3.2923621152359317
+2023,Wellington Region,Residential,3.3558177834716325
+2024,Wellington Region,Residential,3.3267910041005386
+2001,Wellington Region,Sociocultural,-0.912056530672106
+2002,Wellington Region,Sociocultural,-0.8783839405470815
+2003,Wellington Region,Sociocultural,-0.7903259681412189
+2004,Wellington Region,Sociocultural,-0.744428135688671
+2005,Wellington Region,Sociocultural,-0.7458832131158619
+2006,Wellington Region,Sociocultural,-0.837588171458787
+2007,Wellington Region,Sociocultural,-0.9244768474385534
+2008,Wellington Region,Sociocultural,-0.9220200177951172
+2009,Wellington Region,Sociocultural,-0.9283461244689963
+2010,Wellington Region,Sociocultural,-0.8452321295934819
+2011,Wellington Region,Sociocultural,-0.9349433643919056
+2012,Wellington Region,Sociocultural,-1.0134357941235201
+2013,Wellington Region,Sociocultural,-0.9794803562309511
+2014,Wellington Region,Sociocultural,-1.0330520523745905
+2015,Wellington Region,Sociocultural,-1.0358099886919323
+2016,Wellington Region,Sociocultural,-1.0658526966941233
+2017,Wellington Region,Sociocultural,-1.1214376852806218
+2018,Wellington Region,Sociocultural,-1.2616000123024582
+2019,Wellington Region,Sociocultural,-1.4509506758537416
+2020,Wellington Region,Sociocultural,-1.387455744576135
+2021,Wellington Region,Sociocultural,-1.33889358295119
+2022,Wellington Region,Sociocultural,-1.3859606994926033
+2023,Wellington Region,Sociocultural,-1.510036935346002
+2024,Wellington Region,Sociocultural,-1.3596680763104843
+2001,Wellington Region,Temporary Accommodation,-1.9718289860239522
+2002,Wellington Region,Temporary Accommodation,-1.831986380858594
+2003,Wellington Region,Temporary Accommodation,-1.749939382002673
+2004,Wellington Region,Temporary Accommodation,-1.7679381198152782
+2005,Wellington Region,Temporary Accommodation,-1.80089186430184
+2006,Wellington Region,Temporary Accommodation,-1.603667821509764
+2007,Wellington Region,Temporary Accommodation,-1.4264233895634142
+2008,Wellington Region,Temporary Accommodation,-1.4553184974131668
+2009,Wellington Region,Temporary Accommodation,-1.6147592728475981
+2010,Wellington Region,Temporary Accommodation,-1.6421761038350708
+2011,Wellington Region,Temporary Accommodation,-1.6714898604864068
+2012,Wellington Region,Temporary Accommodation,-1.6900536727322546
+2013,Wellington Region,Temporary Accommodation,-1.644681606400337
+2014,Wellington Region,Temporary Accommodation,-1.6843521229990355
+2015,Wellington Region,Temporary Accommodation,-1.7816009027372997
+2016,Wellington Region,Temporary Accommodation,-1.973409748599524
+2017,Wellington Region,Temporary Accommodation,-2.094615791556828
+2018,Wellington Region,Temporary Accommodation,-2.0966277800978474
+2019,Wellington Region,Temporary Accommodation,-2.2382850714733884
+2020,Wellington Region,Temporary Accommodation,-2.290674394882937
+2021,Wellington Region,Temporary Accommodation,-2.4890636812841493
+2022,Wellington Region,Temporary Accommodation,-2.5554473277473697
+2023,Wellington Region,Temporary Accommodation,-2.5555393987001636
+2024,Wellington Region,Temporary Accommodation,-2.5993589632384992
